@@ -1,20 +1,20 @@
 ![](https://github.com/Roxy-5/Informe1/blob/main/images.jpg)
 
-🛸 Informe2
+🛸 ###Informe2
 
 Análisis de datos de la tabla.
 
-🌍 Cómo usar
+🌍 **Cómo usar**
 
 1. Clona este repositorio.
 2. Instala las dependencias necesarias.
 3. Ejecuta el proyecto.
 
-🪐 Autor
+🪐 **Autor**
 
 Rocío Ramírez
 
-🌌 Proceso llevado a cabo para la limpieza y corrección: 
+🌌 **Proceso llevado a cabo para la limpieza y corrección:** 
 - Se cargan los archivos CSV usando `pd.read_csv()` con `on_bad_lines='skip'` para ignorar filas problemáticas.
 - Se visualizan las primeras y últimas filas con `df.head()` y `df.tail()`.
 - Se revisa la estructura y tipos de datos con `df.info()`, `df.dtypes`, y `df.describe()`.
@@ -43,7 +43,7 @@ Rocío Ramírez
   - Duplicados.
   - Preparación para análisis (columnas nuevas, agrupaciones).
 
-🚀 Respuestas a las preguntas del cliente:
+🚀 **Respuestas a las preguntas del cliente:**
 
 1. ¿Cómo varían los precios promedio por vecindario a lo largo del tiempo? ![image](https://github.com/user-attachments/assets/69dca9c4-4971-4e39-ae02-a140cadb03f9) 
 2. ¿Qué listados tienen la mayor disponibilidad y cómo se relaciona esto con su precio? ![image](https://github.com/user-attachments/assets/01d22ac9-4bb8-4910-a522-c2157495e0c2) No hay relación clara.
@@ -76,7 +76,7 @@ Untergiesing-Harlaching
 9. ¿Cómo varía la disponibilidad a lo largo del año? ![image](https://github.com/user-attachments/assets/cb346c8f-f286-417a-b82f-f4bf4a118c90)
 10. ¿Los anfitriones con más anuncios tienen mejores reseñas? ![image](https://github.com/user-attachments/assets/a4c71678-b0da-4aa8-8d13-42a0ca01cfb7) No, tener muchos anuncios no garantiza mejores reseñas y la puntuación promedio suele ser alta (cerca de 5) para la mayoría de anfitriones sin importar cuántos anuncios tienen.
 
-🌋 Hallazgos
+🌋 **Hallazgos**
 
 - La mayoría de los precios de los anuncios están concentrados en valores bajos, pero existen algunos anuncios con precios mucho más altos (outliers).
 - No hay una relación clara entre la cantidad de días disponibles de un anuncio y su precio promedio. La correlación es baja, lo que indica que los anuncios más caros no necesariamente están más (o menos) disponibles.
@@ -89,7 +89,7 @@ Untergiesing-Harlaching
 - Algunos vecindarios tienen puntuaciones promedio de reseñas más altas, lo que puede indicar mejor calidad percibida por los huéspedes.
 - No se observa una tendencia clara: los anfitriones con más anuncios no necesariamente tienen mejores puntuaciones promedio de reseñas.
 
-🧭 Recomendaciones estratégicas
+🧭 **Recomendaciones estratégicas**
 
 ### 1. Ajuste Dinámico de Precios
 El análisis muestra que los precios varían significativamente entre vecindarios y a lo largo del tiempo. Se recomienda implementar una estrategia de precios dinámica, ajustando tarifas según la demanda estacional y la competencia local para maximizar ingresos y ocupación.

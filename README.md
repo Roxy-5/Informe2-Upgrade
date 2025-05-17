@@ -46,14 +46,23 @@ Rocío Ramírez
 🚀 Respuestas a las preguntas del cliente:
 
 1. ¿Cómo varían los precios promedio por vecindario a lo largo del tiempo? ![image](https://github.com/user-attachments/assets/69dca9c4-4971-4e39-ae02-a140cadb03f9) 
-3. ¿Qué listados tienen la mayor disponibilidad y cómo se relaciona esto con su precio? ![image](https://github.com/user-attachments/assets/01d22ac9-4bb8-4910-a522-c2157495e0c2)
-4. ¿Existen patrones de precios en función de las características de los listados (número de habitaciones, tipo de propiedad, etc.)? 
-5. ¿Qué vecindarios tienen los listados con las mejores reseñas (si hay una columna de puntuación)?
-6. ¿Cómo se distribuyen los precios por vecindario y tipo de propiedad?
-7. ¿Qué listados tienen la mayor cantidad de reseñas y cómo se relaciona esto con su precio?
-8. ¿Existen listados con muchas reseñas pero precios bajos o altos? ¿Qué podría significar esto?
-9. ¿Cómo afecta la disponibilidad de un listado (en el calendario) a la cantidad de reseñas que recibe?
-10. ¿Existen patrones entre los precios, la disponibilidad y la cantidad de reseñas?
+2. ¿Qué listados tienen la mayor disponibilidad y cómo se relaciona esto con su precio? ![image](https://github.com/user-attachments/assets/01d22ac9-4bb8-4910-a522-c2157495e0c2) No hay relación clara
+3. ¿Existen patrones de precios en función de las características de los listados (tipo de habitaciones, tipo de propiedad, etc.)? ![image](https://github.com/user-attachments/assets/263e3ae0-60b5-4f12-ab50-e6c4f20594e4) ![image](https://github.com/user-attachments/assets/c8507327-0a00-4951-a172-48cf844efc6b)
+4. ¿Qué vecindarios tienen los listados con las mejores reseñas (si hay una columna de puntuación)?:
+Au-Haidhausen
+Pasing-Obermenzing    
+Sendling-Westpark         
+Schwanthalerhöhe          
+Schwabing-West             
+Untergiesing-Harlaching   
+Tudering-Riem              
+Allach-Untermenzing       
+Altstadt-Lehel            
+Bogenhausen    
+5. ¿Qué listados tienen la mayor cantidad de reseñas y cómo se relaciona esto con su precio? ![image](https://github.com/user-attachments/assets/3c2d60bc-8acf-4fb8-af35-21f86785e477) Los de precio moderado.
+6. ¿Existen listados con muchas reseñas pero precios bajos o altos? ¿Qué podría significar esto?: A que los huéspedes prefieren alojamientos accesibles, con buena ubicación, calidad-precio y mejor experiencia del usuario. La popularidad no depende solo del precio.
+7. ¿Cómo afecta la disponibilidad de un listado (en el calendario) a la cantidad de reseñas que recibe?
+8. ¿Existen patrones entre los precios, la disponibilidad y la cantidad de reseñas?
 
 🌋 Hallazgos
 

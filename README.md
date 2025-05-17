@@ -1,6 +1,6 @@
 ![](https://github.com/Roxy-5/Informe1/blob/main/images.jpg)
 
-🛸 ###Informe2
+🛸 ### Informe2
 
 Análisis de datos de la tabla.
 

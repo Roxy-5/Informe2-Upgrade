@@ -35,13 +35,13 @@ Rocío Ramírez
 - Se crean nuevas columnas si es necesario (por ejemplo, `'month'`).
 - Se agrupan y resumen datos para análisis exploratorio y visualización.
 - **¿Qué se corrige en este proceso?**:
-  - **Errores de lectura** (filas corruptas).
-  - **Tipos de datos incorrectos** (fechas, precios, categorías).
-  - **Columnas innecesarias o problemáticas** (constantes, nulas, irrelevantes).
-  - **Valores nulos** (relleno o eliminación).
-  - **Registros no válidos** (precios negativos o cero).
-  - **Duplicados**.
-  - **Preparación para análisis** (columnas nuevas, agrupaciones).
+  - Errores de lectura (filas corruptas).
+  - Tipos de datos incorrectos (fechas, precios, categorías).
+  - Columnas innecesarias o problemáticas (constantes, nulas, irrelevantes).
+  - Valores nulos (relleno o eliminación).
+  - Registros no válidos (precios negativos o cero).
+  - Duplicados.
+  - Preparación para análisis (columnas nuevas, agrupaciones).
 
 🚀 Respuestas a las preguntas del cliente:
 

@@ -58,12 +58,23 @@ Untergiesing-Harlaching
 Tudering-Riem              
 Allach-Untermenzing       
 Altstadt-Lehel            
-Bogenhausen    
-5. ¿Qué listados tienen la mayor cantidad de reseñas y cómo se relaciona esto con su precio? ![image](https://github.com/user-attachments/assets/3c2d60bc-8acf-4fb8-af35-21f86785e477) Los de precio moderado.
-6. ¿Existen listados con muchas reseñas pero precios bajos o altos? ¿Qué podría significar esto?: A que los huéspedes prefieren alojamientos accesibles, con buena ubicación, calidad-precio y mejor experiencia del usuario. La popularidad no depende solo del precio.
-7. ¿Cómo afecta la disponibilidad de un listado (en el calendario) a la cantidad de reseñas que recibe? ![image](https://github.com/user-attachments/assets/bf260c6e-45b6-4d61-910e-d4b337bc24d2) No afecta prácticamente nada porque la correlación es muy débil (0.09). Que un anuncio esté disponible muchos días al año no garantiza que reciba más reseñas.
-8. ¿Cómo varía la disponibilidad a lo largo del año? ![image](https://github.com/user-attachments/assets/cb346c8f-f286-417a-b82f-f4bf4a118c90)
-9. ¿Los anfitriones con más anuncios tienen mejores reseñas? ![image](https://github.com/user-attachments/assets/a4c71678-b0da-4aa8-8d13-42a0ca01cfb7) No, tener muchos anuncios no garantiza mejores reseñas y la puntuación promedio suele ser alta (cerca de 5) para la mayoría de anfitriones sin importar cuántos anuncios tienen.
+Bogenhausen
+5. ¿Qué vecindarios son los más baratos?
+Ramersdorf-Perlach            109.275132
+Aubing-Lochhausen-Langwied    113.000000
+Hadern                        118.750000
+Tudering-Riem                 123.054217
+Allach-Untermenzing           123.178571
+Milbertshofen-Am Hart         123.901840
+Moosach                       137.509615
+Pasing-Obermenzing            140.708029
+Obergiesing                   141.621795
+Untergiesing-Harlaching 
+6. ¿Qué listados tienen la mayor cantidad de reseñas y cómo se relaciona esto con su precio? ![image](https://github.com/user-attachments/assets/3c2d60bc-8acf-4fb8-af35-21f86785e477) Los de precio moderado.
+7. ¿Existen listados con muchas reseñas pero precios bajos o altos? ¿Qué podría significar esto?: A que los huéspedes prefieren alojamientos accesibles, con buena ubicación, calidad-precio y mejor experiencia del usuario. La popularidad no depende solo del precio.
+8. ¿Cómo afecta la disponibilidad de un listado (en el calendario) a la cantidad de reseñas que recibe? ![image](https://github.com/user-attachments/assets/bf260c6e-45b6-4d61-910e-d4b337bc24d2) No afecta prácticamente nada porque la correlación es muy débil (0.09). Que un anuncio esté disponible muchos días al año no garantiza que reciba más reseñas.
+9. ¿Cómo varía la disponibilidad a lo largo del año? ![image](https://github.com/user-attachments/assets/cb346c8f-f286-417a-b82f-f4bf4a118c90)
+10. ¿Los anfitriones con más anuncios tienen mejores reseñas? ![image](https://github.com/user-attachments/assets/a4c71678-b0da-4aa8-8d13-42a0ca01cfb7) No, tener muchos anuncios no garantiza mejores reseñas y la puntuación promedio suele ser alta (cerca de 5) para la mayoría de anfitriones sin importar cuántos anuncios tienen.
 
 🌋 Hallazgos
 

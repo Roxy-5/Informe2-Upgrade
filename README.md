@@ -34,7 +34,7 @@ Rocío Ramírez
 - Se revisa la forma final del DataFrame (`df.shape`).
 - Se crean nuevas columnas si es necesario (por ejemplo, `'month'`).
 - Se agrupan y resumen datos para análisis exploratorio y visualización.
-- **¿Qué se corrige en este proceso?**
+**¿Qué se corrige en este proceso?**:
 - **Errores de lectura** (filas corruptas).
 - **Tipos de datos incorrectos** (fechas, precios, categorías).
 - **Columnas innecesarias o problemáticas** (constantes, nulas, irrelevantes).

@@ -59,16 +59,16 @@ Tudering-Riem
 Allach-Untermenzing       
 Altstadt-Lehel            
 Bogenhausen
-5. ¿Qué vecindarios son los más baratos?
-Ramersdorf-Perlach            109.275132
-Aubing-Lochhausen-Langwied    113.000000
-Hadern                        118.750000
-Tudering-Riem                 123.054217
-Allach-Untermenzing           123.178571
-Milbertshofen-Am Hart         123.901840
-Moosach                       137.509615
-Pasing-Obermenzing            140.708029
-Obergiesing                   141.621795
+5. ¿Qué vecindarios son los más baratos?:
+Ramersdorf-Perlach            
+Aubing-Lochhausen-Langwied 
+Hadern                     
+Tudering-Riem               
+Allach-Untermenzing        
+Milbertshofen-Am Hart       
+Moosach                       
+Pasing-Obermenzing           
+Obergiesing                
 Untergiesing-Harlaching 
 6. ¿Qué listados tienen la mayor cantidad de reseñas y cómo se relaciona esto con su precio? ![image](https://github.com/user-attachments/assets/3c2d60bc-8acf-4fb8-af35-21f86785e477) Los de precio moderado.
 7. ¿Existen listados con muchas reseñas pero precios bajos o altos? ¿Qué podría significar esto?: A que los huéspedes prefieren alojamientos accesibles, con buena ubicación, calidad-precio y mejor experiencia del usuario. La popularidad no depende solo del precio.

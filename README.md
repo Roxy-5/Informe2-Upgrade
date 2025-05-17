@@ -14,7 +14,10 @@ Análisis de datos de la tabla.
 
 Rocío Ramírez
 
-🌌 Proceso llevado a cabo para la limpieza y corrección:
+🌌 Proceso llevado a cabo para la limpieza y corrección: 
+
+
+🚀 Respuestas a las preguntas del cliente:
 
 1. ¿Cómo varían los precios promedio por vecindario a lo largo del tiempo?
 2. ¿Qué listados tienen la mayor disponibilidad y cómo se relaciona esto con su precio?
@@ -25,10 +28,6 @@ Rocío Ramírez
 7. ¿Existen listados con muchas reseñas pero precios bajos o altos? ¿Qué podría significar esto?
 8. ¿Cómo afecta la disponibilidad de un listado (en el calendario) a la cantidad de reseñas que recibe?
 9. ¿Existen patrones entre los precios, la disponibilidad y la cantidad de reseñas?
-
-🚀 Respuestas a las preguntas del cliente:
-
-
 
 🌋 Hallazgos
 

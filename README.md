@@ -46,8 +46,8 @@ Rocío Ramírez
 🚀 Respuestas a las preguntas del cliente:
 
 1. ¿Cómo varían los precios promedio por vecindario a lo largo del tiempo? ![image](https://github.com/user-attachments/assets/69dca9c4-4971-4e39-ae02-a140cadb03f9) 
-3. ¿Qué listados tienen la mayor disponibilidad y cómo se relaciona esto con su precio? 
-4. ¿Existen patrones de precios en función de las características de los listados (número de habitaciones, tipo de propiedad, etc.)?
+3. ¿Qué listados tienen la mayor disponibilidad y cómo se relaciona esto con su precio? ![image](https://github.com/user-attachments/assets/01d22ac9-4bb8-4910-a522-c2157495e0c2)
+4. ¿Existen patrones de precios en función de las características de los listados (número de habitaciones, tipo de propiedad, etc.)? 
 5. ¿Qué vecindarios tienen los listados con las mejores reseñas (si hay una columna de puntuación)?
 6. ¿Cómo se distribuyen los precios por vecindario y tipo de propiedad?
 7. ¿Qué listados tienen la mayor cantidad de reseñas y cómo se relaciona esto con su precio?

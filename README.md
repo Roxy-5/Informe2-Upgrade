@@ -4,7 +4,7 @@
 
 Análisis de datos de la tabla.
 
-🌍 **Cómo usar**
+### 🌍 Cómo usar
 
 1. Clona este repositorio.
 2. Instala las dependencias necesarias.

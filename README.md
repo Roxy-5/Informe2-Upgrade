@@ -7,8 +7,12 @@ Análisis de datos de la tabla.
 ### 🌍 Cómo usar
 
 1. Clona este repositorio.
-2. Instala las dependencias necesarias.
-3. Ejecuta el proyecto.
+2. Instala las dependencias necesarias:
+   - pandas
+   - numpy
+   - matplotlib
+   - seaborn
+4. Ejecuta el proyecto.
 
 ### 🪐 Autor
 
@@ -111,6 +115,7 @@ Dada la variabilidad de precios y ocupación por zona y temporada, es fundamenta
 
 7. **Gestión Profesional para Anfitriones Multipropiedad:**
 No se observa una relación directa entre el número de anuncios y la calidad de las reseñas. Los anfitriones con muchas propiedades deben apoyarse en herramientas de gestión y procesos estandarizados para asegurar una experiencia homogénea y de calidad en todos sus anuncios.
+
 
 
 

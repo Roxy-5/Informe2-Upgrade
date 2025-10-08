@@ -18,7 +18,7 @@ Análisis de datos de la tabla.
 
 Rocío Ramírez
 
-### 🌌 Proceso llevado a cabo para la limpieza y corrección:
+### 🌌 Proceso llevado a cabo para la limpieza y corrección
 - Se cargan los archivos CSV usando `pd.read_csv()` con `on_bad_lines='skip'` para ignorar filas problemáticas.
 - Se visualizan las primeras y últimas filas con `df.head()` y `df.tail()`.
 - Se revisa la estructura y tipos de datos con `df.info()`, `df.dtypes`, y `df.describe()`.
@@ -47,7 +47,7 @@ Rocío Ramírez
   - Duplicados.
   - Preparación para análisis (columnas nuevas, agrupaciones).
 
-### 🚀 Respuestas a las preguntas del cliente:
+### 🚀 Respuestas a las preguntas del cliente
 
 1. **¿Cómo varían los precios promedio por vecindario a lo largo del tiempo?** ![image](https://github.com/user-attachments/assets/69dca9c4-4971-4e39-ae02-a140cadb03f9) 
 2. **¿Qué listados tienen la mayor disponibilidad y cómo se relaciona esto con su precio?** ![image](https://github.com/user-attachments/assets/01d22ac9-4bb8-4910-a522-c2157495e0c2) No hay relación clara.
@@ -115,8 +115,3 @@ Dada la variabilidad de precios y ocupación por zona y temporada, es fundamenta
 
 7. **Gestión Profesional para Anfitriones Multipropiedad:**
 No se observa una relación directa entre el número de anuncios y la calidad de las reseñas. Los anfitriones con muchas propiedades deben apoyarse en herramientas de gestión y procesos estandarizados para asegurar una experiencia homogénea y de calidad en todos sus anuncios.
-
-
-
-
-
